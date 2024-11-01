@@ -12,7 +12,7 @@ Ahora utilizaré los mismos ejercicios de esas entradas, pero ahora para mostrar
 Creamos una tabla llamada <i>membership</i>:
 </p>
 <div>
-<IMG src="images/">
+<IMG src="images/tbMembership.png">
 </div>
 <p>Ahora insertamos algunos registros con el script:</p>
 <div>
